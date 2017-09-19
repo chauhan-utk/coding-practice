@@ -1,3 +1,7 @@
+/*
+Problem statement: http://practice.geeksforgeeks.org/problems/n-queen-problem/0
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define vvii vector<vector<int> >
